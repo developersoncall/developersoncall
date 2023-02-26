@@ -1,5 +1,5 @@
 # Hi there, I'm Anuj Sharma! 👋👨‍💻
-Be welcome to my github to see what i'm doing! ✌️😝
+Welcome to my github to see what i'm doing! ✌️😝
 
 I've been focusing on the Javascript/Typescript (React and React-Native) and Node.js (Backend) ecosystem and going straight to the fullstack dream! 🙏 
 
